@@ -1,0 +1,32 @@
+body > div{
+   display: inline-block; 
+
+}
+header{
+    display: inline-block;
+
+}
+header > img{
+    display: inline-block;
+
+}
+nav{
+    display: inline-block;
+}
+a{
+    display: inline-block;
+}
+main{
+    display: inline-block;
+}
+main > img{
+    display: inline-block;
+
+}
+h1{
+    display: inline-block;
+
+}
+p{
+    display: inline-block;
+}
