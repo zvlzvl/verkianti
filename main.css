@@ -8,7 +8,8 @@ body > div{
 header{
     display: inline-block;
     width: 100%;
-    background-color: lightseagreen;
+    margin-top: 30px;
+    
 
 }
 header > img{
@@ -28,12 +29,19 @@ a{
     color: #1d1d1de7;
     text-transform:uppercase;
     text-decoration: none;
-    font-size: 10px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+    font-size: 12px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding-left: 10px;
     padding-right: 10px;
-    padding: 10px;
-    background-color: lightcoral;
+    
+}
+a:nth-of-type(6){
+    display:inline-block;
+    margin-top: -3px;
+    background-color: #b3aaaae7;
+    border: 3px solid #1d1d1de7;
+    border-radius: 10px;
 }
 main{
     display: inline-block;
@@ -54,7 +62,7 @@ main > div{
     width: 40%;
     margin-left: 5%;
     text-align: center;
-    font-family:initial;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-bottom: 70px;
 }
 h1{
